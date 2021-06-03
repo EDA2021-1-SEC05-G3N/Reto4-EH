@@ -2,7 +2,7 @@
 # ISIS1225 - Reto 4
 
 * Eduardo José Herrera Alba, 201912865, ej.herrera@uniandes.edu.co
-* María José Cely Ortiz, 202011803, m.cely@uniandes.edu.co
+* Maria José Cely Ortiz, 202011803, m.cely@uniandes.edu.co
 
 Este proyecto contiene los Tipos abstractos de datos, estructuras de datos y algoritmos requeridos por el curso ISIS1225-Estructuras de Datos y Algoritmos
 
