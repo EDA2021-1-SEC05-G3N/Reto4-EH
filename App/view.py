@@ -156,7 +156,7 @@ def thread_cycle():
             point_id = controller.getPointID(catalog, landing_point)
             respuesta = controller.affectedCountries(catalog, point_id)
             printReq5(respuesta)
-            print("\nSe ejecutó el requerimiento 5\n")
+            print("\nSe ejecutó el requerimiento 5 \n")
 
         else:
             sys.exit(0)
